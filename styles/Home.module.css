@@ -42,7 +42,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #7159c1;
   text-decoration: none;
 }
 
@@ -69,10 +69,12 @@
 }
 
 .code {
-  background: #fafafa;
+  background: #7159c1;
   border-radius: 5px;
   padding: 0.75rem;
+  color: #fafafa;
   font-size: 1.1rem;
+  font-weight: bold;
   font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
     Bitstream Vera Sans Mono, Courier New, monospace;
 }

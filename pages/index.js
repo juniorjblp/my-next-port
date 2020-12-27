@@ -11,7 +11,6 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-
         <h4 className={styles.siteUnder}>Web Site Under Construction</h4>
         <h1 className={styles.title}>
           Welcome to <a href="https://juniorjblp.cf">My Next Port!</a>
