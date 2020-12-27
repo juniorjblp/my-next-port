@@ -62,7 +62,7 @@ export default function Home() {
           Developed with{' '}
           <img src="img/nextLogo.png" alt="Vercel Logo" className={styles.logo} />
         </a>
-          {''} by {''} <a href="https://github.com/juniorjblp"> Junior Sousa</a>
+        &rarr;{''} by {''} &rarr;<a href="https://github.com/juniorjblp"> Junior Sousa</a>
       </footer>
     </div>
   )
