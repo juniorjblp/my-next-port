@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-        <code className={styles.code}>Meu Next Port is a personal website developed 
+        <code className={styles.code}>My Next Port is a personal website developed 
         in Nextjs</code>
         </p>
 
