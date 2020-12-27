@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Image from 'next/image'
+import 'bootstrap/dist/css/bootstrap.css'
 
 export default function Home() {
   return (
@@ -13,7 +14,7 @@ export default function Home() {
       <main className={styles.main}>
         <h4 className={styles.siteUnder}>Web Site Under Construction</h4>
         <h1 className={styles.title}>
-          Welcome to <a href="https://juniorjblp.cf">My Next Port!</a>
+          Welcome to <a href="https://mynextport.cf">My Next Port!</a>
         </h1>
 
         <p className={styles.description}>
